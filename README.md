@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KBQVE42B
-- 👀 I'm interested in python, security, network, new ideas, challenges, learning and ...
-- 🌱 I’m currently learning machinge learning and security and kotlin
+- 👋 Hi, I’m Parsa
+- 👀 I'm interested in Python, Security, Network, New ideas, Challenges, Learning and ...
+- 🌱 I’m currently learning Web Developing with PHP, JS, Wordpress.
 
 <!---
 KBQVE42B/KBQVE42B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
