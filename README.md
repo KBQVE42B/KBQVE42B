@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parsa
 - 👀 I'm interested in Python, Security, Network, New ideas, Challenges, Learning and ...
-- 🌱 I’m currently learning docker🐳
+- 🌱 I’m currently work as a freelancer.
 
 <!---
 KBQVE42B/KBQVE42B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
